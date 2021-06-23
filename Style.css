@@ -1,0 +1,44 @@
+.satu{
+    margin-left: 20px;
+    border: none;
+}
+.satu:hover{
+    border-bottom: 1px solid red;
+}
+
+.mobil{
+    color:darkslategray;
+    margin-top: 60px;
+    margin-left: 70px;
+}
+
+.booking {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.booking:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.footer{
+    color: white;
+}
+.footer ul li{
+    text-decoration: none;
+    list-style: none;
+}

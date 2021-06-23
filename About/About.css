@@ -1,0 +1,15 @@
+.realy{
+  padding: 10px;
+}
+
+.satu{
+  margin-left: 20px;
+  border: none;
+}
+.satu:hover{
+  border-bottom: 1px solid red;
+}
+
+.adjust{
+  margin-left: 20px;
+}

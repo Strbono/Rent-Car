@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(189, 189, 189);
+}
+
+.kotak_login{
+    background-color: white;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+    height: 750px;
+}
+
+input[type=input], input[type=password]{
+    padding: 10px;
+    font-size: 12pt;
+}
+
+.button{
+    width: 100%;
+    font-size: 14pt;
+    padding: 10px;
+    border: none;
+    background-color: rgb(196, 46, 46);
+    color: white;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: rgb(155, 37, 37);
+
+}
